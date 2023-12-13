@@ -8,6 +8,7 @@ function Component(props) {
         <h1>hi good morning</h1>
         <h4>good</h4>
         <h1>hiiiii</h1>
+        <h1>preactic react</h1>
         <h1>Inside Component</h1>
         <h1>Inside content</h1>
         <h4>Name : {user?.name}</h4>
